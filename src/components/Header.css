@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    height: 15px;
+    font-size: 9px;
+    margin-bottom: 3px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(232,216,183);
+    padding: 15px;
+    color: rgb(105,105,105);
+    font-weight: normal;
+}

@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    background-color: rgb(232,216,183);
+    padding: 20px 0;
+    color: rgb(105,105,105);
+}
+  
+.field {
+    height: flex;
+    margin: 10px 0;
+    background-color: rgb(232,216,183);
+}

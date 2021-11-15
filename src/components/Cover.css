@@ -1,0 +1,11 @@
+.cover {
+    position: center;
+    width: 100%;
+}
+
+.cover .img {
+    width: 100%;
+    height: auto;
+}
+
+  
