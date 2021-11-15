@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/park-finder/static/css/main.8b4726c7.chunk.css",
+    "main.js": "/park-finder/static/js/main.b913f6a9.chunk.js",
+    "main.js.map": "/park-finder/static/js/main.b913f6a9.chunk.js.map",
+    "runtime-main.js": "/park-finder/static/js/runtime-main.f588676e.js",
+    "runtime-main.js.map": "/park-finder/static/js/runtime-main.f588676e.js.map",
+    "static/js/2.d4d16eec.chunk.js": "/park-finder/static/js/2.d4d16eec.chunk.js",
+    "static/js/2.d4d16eec.chunk.js.map": "/park-finder/static/js/2.d4d16eec.chunk.js.map",
+    "static/js/3.58d793a6.chunk.js": "/park-finder/static/js/3.58d793a6.chunk.js",
+    "static/js/3.58d793a6.chunk.js.map": "/park-finder/static/js/3.58d793a6.chunk.js.map",
+    "index.html": "/park-finder/index.html",
+    "static/css/main.8b4726c7.chunk.css.map": "/park-finder/static/css/main.8b4726c7.chunk.css.map",
+    "static/js/2.d4d16eec.chunk.js.LICENSE.txt": "/park-finder/static/js/2.d4d16eec.chunk.js.LICENSE.txt",
+    "static/media/CoverImg.c675c8fb.jpeg": "/park-finder/static/media/CoverImg.c675c8fb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f588676e.js",
+    "static/js/2.d4d16eec.chunk.js",
+    "static/css/main.8b4726c7.chunk.css",
+    "static/js/main.b913f6a9.chunk.js"
+  ]
+}
